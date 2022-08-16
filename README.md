@@ -57,7 +57,7 @@ We can observe that Geralt is the character that has the highest betweenness mea
 
 **Eigenvector centrality** tries to capture how relevant a node is based on the significance of the nodes it is connected to. In other words, how connected to influential nodes a node is.
 
-We can observe that once again Geralt is the character with the highest score, with a eigenvector measure of 0.50. It is followed by Yennefer and Boholt with 0.33 and 0.29 scores respectively. This could be interpreted that the mentiones characters are the most connected to other influential and highly connected individuals.
+We can observe that once again Geralt is the character with the highest score, with a eigenvector measure of 0.50. It is followed by Yennefer and Boholt with 0.33 and 0.29 scores respectively. This could be interpreted that the mentioned characters are the most connected to other influential and highly connected individuals.
 
 
 <img src="https://user-images.githubusercontent.com/48052532/184941671-e7d0e778-a0e7-41de-ba31-4e69a94e864f.png" alt="drawing" width="350"/>
