@@ -2,8 +2,6 @@
 
 The Witcher character graph network, based on [thu-vu92](https://github.com/thu-vu92)/ [Thu Vu Data Analytics](https://www.youtube.com/c/Thuvu5) Youtube Tutorial.
 
-
-
 ## 1. Objective of the Project
 
 * Creating and analysing a graphical network of character relationships of the The Witcher Book Series.
@@ -25,7 +23,9 @@ Visually it could be concluded the Geralt, Yennefer, Ciri and Essi are the chara
 
 ### 2.2 Network Analysis: Centrality Measures
 
-Using [centrality measures](https://www.youtube.com/watch?v=NgUj8DEH5Tc), we analyse The Witcher Character Graph, allows to estimate how influential or significant a character is in the story from different perspectives.
+Using [centrality measures](https://www.youtube.com/watch?v=NgUj8DEH5Tc), we analyse The Witcher Character Graph, allows to estimate how influential or significant a character is in the story from different perspectives, as the following:
+
+<img src="https://user-images.githubusercontent.com/48052532/184963104-6bea8b74-0bcd-475e-9e5c-3c839099074a.png" alt="drawing" width="700"/>
 
 #### 2.2.a Degree Centrality
 
