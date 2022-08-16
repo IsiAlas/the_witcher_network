@@ -1,6 +1,6 @@
 # the_witcher_network
 
-The Witcher character graph network, based on thu-vu92(Github)/ Thu Vu Data Analytics (Youtube) Youtube Tutorial.
+The Witcher character graph network, based on [thu-vu92](https://github.com/thu-vu92)/ [Thu Vu Data Analytics](https://www.youtube.com/c/Thuvu5) Youtube Tutorial.
 
 * Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1 [Youtube Video Link](https://www.youtube.com/watch?v=RuNolAh_4bU&t=13s)
 * Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX [Youtube Video Link](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
@@ -64,7 +64,6 @@ We can observe that once again Geralt is the character with the highest score, w
 <img src="https://user-images.githubusercontent.com/48052532/184941671-e7d0e778-a0e7-41de-ba31-4e69a94e864f.png" alt="drawing" width="350"/>
 
 
-
 ### 2.3 Network Analysis: Community Detections
 
 Using [community louvain package](https://python-louvain.readthedocs.io/en/latest/api.html) it is possible to compute the partition of the graph nodes which maximises the modularity (or try..) using the Louvain heuristices.
@@ -72,4 +71,12 @@ Using [community louvain package](https://python-louvain.readthedocs.io/en/lates
 In the graph we can observe that there are 5 communities detected. The most significant community (blue) has Geralt as the primary point. Next comes the yellow community surrounding Yennefer and the pink community, where Ciri is the central point.
 
 <img src="https://user-images.githubusercontent.com/48052532/184916802-6bc1dd62-0190-45c4-9b6b-c837ed0d98cb.png" alt="drawing" width="800"/>
+
+### 2.4 Evolution of Character Importance: According to Degree Centrality
+
+In order to evaluate the relevance on characters throughout the different books of ther series, we calculate the degree centrality per character in each individual book. In the following graph, we can see how Geralt's, Yennefer's and Ciri 'sprotagonism developes in the eight books analysed.
+
+We can observe that until the forth book of the series Geralt is the central character, after which Ciri takes the lead and in the final book, it is Yennefer that could be considered to have the most protagonism.
+
+<img src="https://user-images.githubusercontent.com/48052532/184954564-cc187724-82fa-427a-b311-6d04c910c572.png" alt="drawing" width="500"/>
 
