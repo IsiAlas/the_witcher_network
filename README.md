@@ -79,20 +79,26 @@ We can observe that until the forth book of the series Geralt is the central cha
 
 <img src="https://user-images.githubusercontent.com/48052532/184954564-cc187724-82fa-427a-b311-6d04c910c572.png" alt="drawing" width="500"/>
 
+## 3. Notebooks and files
 
-## 3. Sources
+* witcher_character_scraping.ipynb : Webscraping process with dataframe of character present in each book in csv format as output.
+* character_networks.ipynb : Process of creationg and analysis of character graph network.
+* character.csv : dataframe of character present in each book in csv format.
+* functions.py : script with relevant functions to loop through all books and identify entities (characters) and create a relationships dataframe.
+
+## 4. Sources
 
 * Project Based on YT tutorial:
-  * Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1 [Youtube Video Link](https://www.youtube.com/watch?v=RuNolAh_4bU&t=13s)
-  * Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX [Youtube Video Link](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
+  - Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1 [Youtube Video Link](https://www.youtube.com/watch?v=RuNolAh_4bU&t=13s)
+  - Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX [Youtube Video Link](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
 
 * For Webscraping process: 
-  * [Witcher Fandom Wiki](https://witcher.fandom.com/wiki/Category:Characters_in_the_stories)
+  - [Witcher Fandom Wiki](https://witcher.fandom.com/wiki/Category:Characters_in_the_stories)
 
 * The Witcher Book Series in Text File
-  * [Thu Vu Project Repository](https://github.com/thu-vu92/the_witcher_network/tree/main/data)
+  - [Thu Vu Project Repository](https://github.com/thu-vu92/the_witcher_network/tree/main/data)
   
 * Centrality Measures:
-  * [Degree Centrality](https://www.youtube.com/watch?v=iiVeQkIELyc) - John McCulloch Youtube Channel
-  * [Betweenness Centrality](https://www.youtube.com/watch?v=0CCrq62TF7U) - John McCulloch Youtube Channel
-  * [Network Centrality](https://www.youtube.com/watch?v=NgUj8DEH5Tc) - Systems Innovation Youtube Channel
+  - [Degree Centrality](https://www.youtube.com/watch?v=iiVeQkIELyc) - John McCulloch Youtube Channel
+  - [Betweenness Centrality](https://www.youtube.com/watch?v=0CCrq62TF7U) - John McCulloch Youtube Channel
+  - [Network Centrality](https://www.youtube.com/watch?v=NgUj8DEH5Tc) - Systems Innovation Youtube Channel
