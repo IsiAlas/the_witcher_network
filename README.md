@@ -73,7 +73,7 @@ In the graph we can observe that there are 5 communities detected. The most sign
 
 ### 2.4 Evolution of Character Importance: According to Degree Centrality
 
-In order to evaluate the relevance on characters throughout the different books of ther series, we calculate the degree centrality per character in each individual book. In the following graph, we can see how Geralt's, Yennefer's and Ciri 'sprotagonism developes in the eight books analysed.
+In order to evaluate the relevance on characters throughout the different books of ther series, we calculate the degree centrality per character in each individual book. In the following graph, we can see how Geralt's, Yennefer's and Ciri's protagonism developes in the eight books analysed.
 
 We can observe that until the forth book of the series Geralt is the central character, after which Ciri takes the lead and in the final book, it is Yennefer that could be considered to have the most protagonism.
 
