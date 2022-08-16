@@ -2,14 +2,13 @@
 
 The Witcher character graph network, based on [thu-vu92](https://github.com/thu-vu92)/ [Thu Vu Data Analytics](https://www.youtube.com/c/Thuvu5) Youtube Tutorial.
 
-* Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1 [Youtube Video Link](https://www.youtube.com/watch?v=RuNolAh_4bU&t=13s)
-* Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX [Youtube Video Link](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
+
 
 ## 1. Objective of the Project
 
 * Creating and analysing a graphical network of character relationships of the The Witcher Book Series.
 * Learning the basics of Webscraping with Selenium.
-* Learning the basics of Natural Language Processing (NLP) with spaCy.
+* Learning the basics of Natural Language Processing (NLP) with spaCy for Relationship Extraction.
 * Learning the basics of graphs and networks using NetworkX.
 
 
@@ -80,3 +79,20 @@ We can observe that until the forth book of the series Geralt is the central cha
 
 <img src="https://user-images.githubusercontent.com/48052532/184954564-cc187724-82fa-427a-b311-6d04c910c572.png" alt="drawing" width="500"/>
 
+
+## 3. Sources
+
+* Project Based on YT tutorial:
+  * Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1 [Youtube Video Link](https://www.youtube.com/watch?v=RuNolAh_4bU&t=13s)
+  * Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX [Youtube Video Link](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
+
+* For Webscraping process: 
+  * [Witcher Fandom Wiki](https://witcher.fandom.com/wiki/Category:Characters_in_the_stories)
+
+* The Witcher Book Series in Text File
+  * [Thu Vu Project Repository](https://github.com/thu-vu92/the_witcher_network/tree/main/data)
+  
+* Centrality Measures:
+  * [Degree Centrality](https://www.youtube.com/watch?v=iiVeQkIELyc) - John McCulloch Youtube Channel
+  * [Betweenness Centrality](https://www.youtube.com/watch?v=0CCrq62TF7U) - John McCulloch Youtube Channel
+  * [Network Centrality](https://www.youtube.com/watch?v=NgUj8DEH5Tc) - Systems Innovation Youtube Channel
