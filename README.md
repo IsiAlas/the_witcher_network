@@ -65,7 +65,7 @@ We can observe that once again Geralt is the character with the highest score, w
 
 ### 2.3 Network Analysis: Community Detections
 
-Using [community louvain package](https://python-louvain.readthedocs.io/en/latest/api.html) it is possible to compute the partition of the graph nodes which maximises the modularity (or try..) using the Louvain heuristices.
+Using [community louvain package](https://python-louvain.readthedocs.io/en/latest/api.html) "it is possible to compute the partition of the graph nodes which maximises the modularity (or try..) using the Louvain heuristices".
 
 In the graph we can observe that there are 5 communities detected. The most significant community (blue) has Geralt as the primary point. Next comes the yellow community surrounding Yennefer and the pink community, where Ciri is the central point.
 
