@@ -81,10 +81,11 @@ We can observe that until the forth book of the series Geralt is the central cha
 
 ## 3. Notebooks and files
 
-* witcher_character_scraping.ipynb : Webscraping process with dataframe of character present in each book in csv format as output.
-* character_networks.ipynb : Process of creationg and analysis of character graph network.
-* character.csv : dataframe of character present in each book in csv format.
-* functions.py : script with relevant functions to loop through all books and identify entities (characters) and create a relationships dataframe.
+* [witcher_character_scraping.ipynb](https://github.com/IsiAlas/the_witcher_network/blob/main/witcher_character_scraping.ipynb) : Notebook with web scraping process with a data frame of characters present in each book in .csv format as output.
+* [character_networks.ipynb](https://github.com/IsiAlas/the_witcher_network/blob/main/character_networks.ipynb) : Notebook with the process of creating and analyzing The Witcher character graph network.
+* [character.csv](https://github.com/IsiAlas/the_witcher_network/blob/main/character.csv) : dataframe of character present in each book in csv format.
+* [functions.py](https://github.com/IsiAlas/the_witcher_network/blob/main/lib/utils/functions.py) : script with relevant functions to loop through all books and identify entities (characters) and create a relationships dataframe.
+* [data folder](https://github.com/IsiAlas/the_witcher_network/tree/main/data): Contains The Witcher book series in text format
 
 ## 4. Sources
 
